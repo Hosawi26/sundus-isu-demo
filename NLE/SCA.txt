@@ -1,0 +1,167 @@
+﻿Anomaly ID
+	Description
+	C-01
+	Restricted Access Breach:
+*  A young man enters a laboratory with a guillotine window and fiddles with a red button.
+* Audio: The explanation and instructions are read aloud and also displayed on the screen.
+* Risk level: No rating displayed.
+* Confidence level: No rating displayed.
+
+
+  
+
+	C-02
+	Suspicious Package: A backpack left in front of a building.
+Audio: Silent.
+Natural language message: An interpretation is displayed on the left side of the screen, and instructions appear on the right side of the screen.
+Severity level: No rating displayed.
+Confidence level: No rating displayed.
+  
+
+ 
+	C-03
+	Vehicle Collision
+*  A collision occurred between two cars in the university parking lot, with no injuries.
+* Audio: The system describes what is happening in a natural voice. It also reads the suggested action.
+* Natural language message: An explanation of what is happening is displayed on the screen in natural language along with the suggested action.
+* Severity level: Displayed as text on the screen.
+* Confidence level: No rating is displayed.
+
+
+  
+
+ 
+	C-04
+	A person is vandalizing the university by using paint to write on the wall of a university building.
+Audio: The system describes what is happening in a natural voice. It also reads the suggested action.
+Natural language message: An explanation of what is happening is displayed on the screen in natural language along with the suggested action.
+Severity level: It is spoken aloud, but no rating is displayed.
+Confidence level: No rating is displayed.
+  
+
+
+
+
+
+	C-05
+	Fire Code Violation
+*  A person is placing an obstacle in front of the emergency exit.
+* Audio: Silent clip.
+* Natural language message: A natural language explanation of what is happening on the screen is displayed along with the suggested action.
+* Severity level: Displayed as text on the screen.
+* Confidence level: No rating is displayed. 
+
+
+  
+
+
+
+
+
+	C-06
+	Active Trespass
+*  A person is attempting to climb a building.
+* Audio: An automated message is broadcast via a loudspeaker, audible to the offending person. A warning message is communicated to the person in full natural language, along with a warning about the action that will be taken if the person continues.
+* Natural Language Message: An explanation of what is happening is displayed on the screen in natural language. The proposed action is also displayed.
+* Risk Level: No rating is displayed.
+* Confidence Level: No rating is displayed.
+
+
+  
+
+	C-07 
+	Unidentified Object(An object on a walkway at night that cannot be classified as a threat or non-threat due to poor lighting.) 
+*  Audio: Silent clip.
+* Natural language message: A natural language explanation of what is happening on the screen is displayed along with the suggested action.
+* Severity level: Not displayed in either system.
+* Confidence level: Not displayed on the screen.
+
+
+  
+
+	C-08
+	Spike In Sensor Reading
+*  A warning message appears on the screen with a suggested action due to increased sensor readings indicating movement in a restricted area.
+* Audio: Silent clip.
+* Natural language message: An explanation of what is happening is displayed on the screen in natural language, along with the suggested action.
+* Severity level: Not displayed in either system.
+* Confidence level: Not displayed on the screen.   
+
+
+	C-09
+	Ambiguous Behavior
+   *  A warning message appears on the screen with a suggested action due to a suspicious man in the parking lot.
+   * Audio: Silent clip.
+   * Natural language message: An explanation of what is happening on the screen is displayed in natural language along with the suggested action.
+   * Severity level: Not displayed in either system.
+   * Confidence level: Not displayed on the screen.
+  
+
+   *  
+
+
+	H-01
+	Group Conflict
+   *  A mass brawl in a university event area.
+   * Audio: A full natural language description of what is happening is read aloud, along with the required action.
+   * Natural language message: A red bar is displayed at the bottom of the screen containing a brief explanation and instructions.
+   * Severity level: No rating is displayed.
+   * Confidence level: No rating is displayed. 
+  
+
+	H-02
+	Medical Emergency
+   * A person collapses, losing consciousness in the university library.
+   * Audio: The system describes what is happening in a natural voice. It also reads the suggested action.
+   * Natural language message: A red banner is displayed on the screen with a natural language explanation of what is happening and the suggested action.
+   * Severity level: Spoken aloud, but no rating is displayed.
+   * Confidence level: No rating is displayed. 
+
+
+  
+
+	H-03
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Advanced Prohibited Item Detection 
+
+
+Natural Language Explanation (NLE) Display: The NLE text is displayed, justifying the alert: "EXTREME ALERT: AI confirmed visual signature matching a prohibited non-metallic weapon; immediate threat level."
+Simulated Coordinated Action (SCA) Display: The system's immediate operational response is shown: "IMMEDIATE: Campus-wide lockdown alert; silent notification to ISUPD; isolate all egress.
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+	H-04
+	Severe Weather
+   *  Rain, floods, and thunder.
+   * Audio: Sound effects only.
+   * Natural language message: A red bar is displayed at the bottom of the screen containing an explanation and instructions.
+   * Severity level: No rating displayed.
+   * Confidence level: No rating displayed.

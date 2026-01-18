@@ -1,0 +1,145 @@
+[
+  {
+    "id": "C-01",
+    "name": "Restricted Access Breach",
+    "description": "A young man enters a laboratory with a guillotine window and fiddles with a red button.",
+    "nle": "Unauthorized individual detected interacting with sensitive laboratory controls. Behavioral pattern matches 'Curiosity/Malice' profile.",
+    "sca": "Issue verbal warning via lab intercom; Log incident in security database; Notify Lab Manager.",
+    "severity": "Medium",
+    "confidence": "High",
+    "video_file": "C-01.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-02",
+    "name": "Suspicious Package",
+    "description": "A backpack left in front of a building.",
+    "nle": "Unattended object detected in high-traffic zone > 10 minutes. Shape consistent with standard backpack.",
+    "sca": "Deploy robotic inspection unit; Cordon off 20m radius; Broadcast 'Stay Clear' message.",
+    "severity": "Medium",
+    "confidence": "Medium",
+    "video_file": "C-02.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-03",
+    "name": "Vehicle Collision",
+    "description": "A collision occurred between two cars in the university parking lot, with no injuries.",
+    "nle": "Low-speed impact detected between two passenger vehicles. No thermal signature of fire or biological injury markers.",
+    "sca": "Dispatch parking enforcement for documentation; Notify owners via plate registration system.",
+    "severity": "Low",
+    "confidence": "High",
+    "video_file": "C-03.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-04",
+    "name": "Vandalism",
+    "description": "A person is vandalizing the university by using paint to write on the wall of a university building.",
+    "nle": "Individual detected applying pigment to building facade. Motion matches 'Graffiti Application' signature.",
+    "sca": "Activate floodlights; Dispatch nearest patrol unit; Capture high-res facial ID.",
+    "severity": "Low",
+    "confidence": "High",
+    "video_file": "C-04.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-05",
+    "name": "Fire Code Violation",
+    "description": "A person is placing an obstacle in front of the emergency exit.",
+    "nle": "Egress path obstruction detected. Object placed in designated 'Keep Clear' zone.",
+    "sca": "Trigger localized audio warning: 'Please remove obstruction'; Notify Facility Management.",
+    "severity": "Medium",
+    "confidence": "High",
+    "video_file": "C-05.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-06",
+    "name": "Active Trespass",
+    "description": "A person is attempting to climb a building.",
+    "nle": "Human subject detected scaling vertical facade. unsafe behavior congruent with 'Urban Climbing' or 'Breach Attempt'.",
+    "sca": "Dispatch rapid response team; deploy aerial drone for monitoring; Issue loud-hailer warning.",
+    "severity": "Medium",
+    "confidence": "High",
+    "video_file": "C-06.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-07",
+    "name": "Unidentified Object",
+    "description": "An object on a walkway at night that cannot be classified as a threat or non-threat due to poor lighting.",
+    "nle": "Ambiguous visual signature on walkway. Low lux levels prevent classification. Anomaly persists > 5 mins.",
+    "sca": "Direct PTZ camera to zoom/focus; Increase local lighting intensity; Request patrol verify.",
+    "severity": "Unknown",
+    "confidence": "Low",
+    "video_file": "C-07.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-08",
+    "name": "Spike In Sensor Reading",
+    "description": "Increased sensor readings indicating movement in a restricted area.",
+    "nle": "Multi-point sensor activation in Sector 4 (Restricted). No visual confirmation of subject.",
+    "sca": "Lockdown Sector 4 automated doors; Activate thermal cameras; Alert Security Ops Center.",
+    "severity": "Medium",
+    "confidence": "Medium",
+    "video_file": "C-08.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "C-09",
+    "name": "Ambiguous Behavior",
+    "description": "A suspicious man in the parking lot.",
+    "nle": "Subject 'Loitering' pattern detected near multiple vehicles. Erratic movement trajectory.",
+    "sca": "Highlight subject on security wall; Dispatch 'Soft Approach' patrol for wellness check.",
+    "severity": "Low",
+    "confidence": "Low",
+    "video_file": "C-09.mp4",
+    "multisensory": false
+  },
+  {
+    "id": "H-01",
+    "name": "Group Conflict",
+    "description": "A mass brawl in a university event area.",
+    "nle": "Crowd density rapid escalation. Kinetic analysis indicates multiple combatants. High probability of injury.",
+    "sca": "ALERT: Deploy all available units; Notify medical response; Activate crowd dispersal siren.",
+    "severity": "High",
+    "confidence": "High",
+    "video_file": "H-01.mp4",
+    "multisensory": true
+  },
+  {
+    "id": "H-02",
+    "name": "Medical Emergency",
+    "description": "A person collapses, losing consciousness in the university library.",
+    "nle": "Subject posture collapse detected (horizontal). No movement for 30s. Bio-signs inferred critical.",
+    "sca": "ALERT: Dispatch EMS immediately; Direct bystander aid via nearest screen/audio; Unlock library access for ambulance.",
+    "severity": "High",
+    "confidence": "High",
+    "video_file": "H-02.mp4",
+    "multisensory": true
+  },
+  {
+    "id": "H-03",
+    "name": "Advanced Prohibited Item",
+    "description": "Person brandishing a firearm in a classroom setting.",
+    "nle": "EXTREME ALERT: AI confirmed visual signature matching a prohibited non-metallic weapon; immediate threat level.",
+    "sca": "IMMEDIATE: Campus-wide lockdown alert; silent notification to ISUPD; isolate all egress.",
+    "severity": "Critical",
+    "confidence": "Very High",
+    "video_file": "H-04.mp4",
+    "multisensory": true
+  },
+  {
+    "id": "H-04",
+    "name": "Severe Weather",
+    "description": "Rain, floods, and thunder.",
+    "nle": "Environmental sensors detect rapid flood water rise. Lightning proximity < 1 mile.",
+    "sca": "Broadcast 'Seek Shelter' alert; Activate basement safe zones; Trigger campus sirens.",
+    "severity": "High",
+    "confidence": "High",
+    "video_file": "H-04.mp4",
+    "multisensory": true
+  }
+]
