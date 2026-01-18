@@ -128,7 +128,7 @@
     "sca": "IMMEDIATE: Campus-wide lockdown alert; silent notification to ISUPD; isolate all egress.",
     "severity": "Critical",
     "confidence": "Very High",
-    "video_file": "H-04.mp4",
+    "video_file": "H-03.mp4",
     "multisensory": true
   },
   {
