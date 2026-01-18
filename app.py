@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Load Anomalies
-@st.cache_data
+@st.cache_data(ttl=60)
 def load_anomalies():
     file_path = 'anomalies.json'
     if not os.path.exists(file_path):
